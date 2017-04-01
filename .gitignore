@@ -1,0 +1,5 @@
+node_modules/
+
+# The following lines ignore everything in dist/ EXCEPT index.html
+dist/**/*
+!dist/index.html

@@ -1,0 +1,12 @@
+.PokemonList {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.PokemonListItem {
+  border: 1px solid black;
+  display: inline-block;
+  margin: 1em;
+  padding: 1em;
+}
